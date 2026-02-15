@@ -43,7 +43,7 @@ pipeline {
                  
                }
             }
-        } /*
+        } /* 
         stage('Trigger SG'){
             when { 
                 expression { params.ACTION == 'apply'}
